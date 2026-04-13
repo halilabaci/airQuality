@@ -1,0 +1,4 @@
+horizon,baseline_best_model,baseline_best_rmse,selected_best_model,selected_best_rmse,rmse_delta
+1,Linear Regression,18.785316579127326,Linear Regression,18.85750608962375,0.07218951049642541
+8,Gradient Boosting Regressor,56.08107040415368,Gradient Boosting Regressor,58.376252384286985,2.2951819801333073
+24,Linear Regression,73.13852450639739,Gradient Boosting Regressor,73.0434527784216,-0.09507172797579244

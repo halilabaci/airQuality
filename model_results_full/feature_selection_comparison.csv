@@ -1,0 +1,4 @@
+horizon,baseline_best_model,baseline_best_rmse,selected_best_model,selected_best_rmse,rmse_delta
+1,Random Forest Regressor,20.09971552631233,Random Forest Regressor,20.29469306646051,0.19497754014818014
+8,Random Forest Regressor,44.66845969628292,Random Forest Regressor,47.741511170564735,3.0730514742818116
+24,Random Forest Regressor,47.82217420453743,Random Forest Regressor,50.68146340212899,2.8592891975915578

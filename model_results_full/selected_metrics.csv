@@ -1,0 +1,16 @@
+dataset,variant,horizon,model,train_rows,test_rows,selected_feature_count,MAE,RMSE,R2
+air_quality_all_clean_encoded.csv,selected,1,Random Forest Regressor,329614,82404,12,11.18480107723107,20.29469306646051,0.9429676570370953
+air_quality_all_clean_encoded.csv,selected,1,Gradient Boosting Regressor,329614,82404,12,11.250950776526564,20.51370180782893,0.9417300943677187
+air_quality_all_clean_encoded.csv,selected,1,Linear Regression,329614,82404,12,11.462826256908336,20.709947721572096,0.9406098744296365
+air_quality_all_clean_encoded.csv,selected,1,Decision Tree Regressor,329614,82404,12,12.027364451591426,22.56687551589059,0.9294821431699296
+air_quality_all_clean_encoded.csv,selected,1,SVR,8000,82404,12,13.959596463439365,33.934098436930505,0.8405484045965954
+air_quality_all_clean_encoded.csv,selected,8,Random Forest Regressor,329552,82389,12,30.578123101205318,47.741511170564735,0.6844025263805679
+air_quality_all_clean_encoded.csv,selected,8,Decision Tree Regressor,329552,82389,12,34.99445623607851,55.36886972958569,0.575505066734165
+air_quality_all_clean_encoded.csv,selected,8,Gradient Boosting Regressor,329552,82389,12,36.62127594140561,57.20420568577278,0.5468968163295297
+air_quality_all_clean_encoded.csv,selected,8,Linear Regression,329552,82389,12,38.629439832289485,59.799454095007775,0.5048513111940194
+air_quality_all_clean_encoded.csv,selected,8,SVR,8000,82389,12,37.33645890144056,61.19447672733792,0.48147984091580986
+air_quality_all_clean_encoded.csv,selected,24,Random Forest Regressor,329412,82353,12,34.94791382749156,50.68146340212899,0.6443826010584999
+air_quality_all_clean_encoded.csv,selected,24,Decision Tree Regressor,329412,82353,12,43.74289012627333,64.10810921188867,0.4310021250078615
+air_quality_all_clean_encoded.csv,selected,24,Gradient Boosting Regressor,329412,82353,12,50.86605037954823,71.45657223640103,0.2930819563981738
+air_quality_all_clean_encoded.csv,selected,24,Linear Regression,329412,82353,12,53.49846754528064,74.86490037807818,0.22403664827911374
+air_quality_all_clean_encoded.csv,selected,24,SVR,8000,82353,12,50.8054979444937,75.41306733802378,0.21263171163758599

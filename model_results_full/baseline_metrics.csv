@@ -1,0 +1,16 @@
+dataset,variant,horizon,model,train_rows,test_rows,MAE,RMSE,R2
+air_quality_all_clean_encoded.csv,baseline,1,Random Forest Regressor,329614,82404,11.06940601006541,20.09971552631233,0.9440582484640311
+air_quality_all_clean_encoded.csv,baseline,1,Gradient Boosting Regressor,329614,82404,11.164897478405397,20.434554714418454,0.9421788672685075
+air_quality_all_clean_encoded.csv,baseline,1,Decision Tree Regressor,329614,82404,11.724547093355579,21.926143066492692,0.9334296676179232
+air_quality_all_clean_encoded.csv,baseline,1,Linear Regression,329614,82404,14.937009846664937,22.87542473311145,0.9275406270794695
+air_quality_all_clean_encoded.csv,baseline,1,SVR,8000,82404,16.147529406820283,33.603014830748755,0.8436446573722824
+air_quality_all_clean_encoded.csv,baseline,8,Random Forest Regressor,329552,82389,28.400773948127537,44.66845969628292,0.7237240070273994
+air_quality_all_clean_encoded.csv,baseline,8,Decision Tree Regressor,329552,82389,33.55284959531623,53.4257018673335,0.6047774943075663
+air_quality_all_clean_encoded.csv,baseline,8,Gradient Boosting Regressor,329552,82389,35.730258658409625,56.23460337530972,0.562126696795866
+air_quality_all_clean_encoded.csv,baseline,8,Linear Regression,329552,82389,37.877700103986804,59.308618545540014,0.5129463400523699
+air_quality_all_clean_encoded.csv,baseline,8,SVR,8000,82389,37.8557334209301,61.51725337700894,0.47599543761838126
+air_quality_all_clean_encoded.csv,baseline,24,Random Forest Regressor,329412,82353,32.5665068903727,47.82217420453743,0.6833763562200869
+air_quality_all_clean_encoded.csv,baseline,24,Decision Tree Regressor,329412,82353,42.1602775851632,62.185762364938206,0.4646144639935017
+air_quality_all_clean_encoded.csv,baseline,24,Gradient Boosting Regressor,329412,82353,50.50496157855425,71.17287165904654,0.2986840984486506
+air_quality_all_clean_encoded.csv,baseline,24,Linear Regression,329412,82353,52.603450031065414,74.53814446938985,0.23079541732496534
+air_quality_all_clean_encoded.csv,baseline,24,SVR,8000,82353,51.7510669808064,76.5634611702099,0.1884265619426967
