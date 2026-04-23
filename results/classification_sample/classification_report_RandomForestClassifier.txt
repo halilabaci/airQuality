@@ -1,0 +1,12 @@
+                                precision    recall  f1-score   support
+
+                          Good       0.78      0.79      0.78      1728
+                      Moderate       0.66      0.77      0.71      2352
+Unhealthy for Sensitive Groups       0.73      0.39      0.51      1270
+                     Unhealthy       0.80      0.90      0.85      3191
+                Very Unhealthy       0.75      0.62      0.68      1002
+                     Hazardous       0.88      0.74      0.81       457
+
+                      accuracy                           0.75     10000
+                     macro avg       0.77      0.70      0.72     10000
+                  weighted avg       0.75      0.75      0.74     10000

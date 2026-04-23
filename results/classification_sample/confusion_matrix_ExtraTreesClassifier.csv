@@ -1,0 +1,7 @@
+,pred_Good,pred_Moderate,pred_Unhealthy for Sensitive Groups,pred_Unhealthy,pred_Very Unhealthy,pred_Hazardous
+true_Good,1284,435,1,8,0,0
+true_Moderate,431,1799,48,74,0,0
+true_Unhealthy for Sensitive Groups,10,593,243,424,0,0
+true_Unhealthy,2,171,56,2888,73,1
+true_Very Unhealthy,1,1,0,459,514,27
+true_Hazardous,0,1,0,20,140,296
